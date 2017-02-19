@@ -1,6 +1,6 @@
 {
   "name": "fireant-less",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "LESS plugin for Fireant",
   "main": "index.js",
   "scripts": {
