@@ -1,6 +1,6 @@
 var less = require('less');
 var chalk = require('chalk');
-var timestamp = require('./lib/timestamp');
+var timestamp = require('fireant-timestamp');
 var global = require('global');
 var fs = require('fs');
 
